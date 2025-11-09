@@ -2,7 +2,7 @@
 
 **Objective:** Predict customer churn for an e-commerce platform using an Artificial Neural Network (ANN) to enable proactive retention strategies.
 
-**Note:** This project uses the open-source Kaggle dataset: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction. **Do not upload the dataset to GitHub**; reference it via the Kaggle URL.
+**Note:** This project uses the open-source Kaggle dataset: [E-Commerce Customer Churn Analysis and Prediction](YOUR_KAGGLE_URL_HERE). **Do not upload the dataset to GitHub**; reference it via the Kaggle URL.
 
 ---
 
@@ -28,4 +28,3 @@
 - Gain hands-on experience with Python, Pandas, Scikit-learn, TensorFlow/Keras, and data visualization techniques.  
 
 This project demonstrates a practical AI framework to predict customer churn and support business strategy decisions in an e-commerce environment.
-
